@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<video>
+    <video_id>3125908</video_id>
+    <user_file_name>3125908</user_file_name>
+    <video_type>1</video_type>
+    <master_video_url>
+        http://vmsmedia.s3.amazonaws.com/ftpupl/univision/Shortform/151119_UVIDEOS_HOTEL_SECRETOS_MISAOK2.mov
+    </master_video_url>
+    <preview_video_url>http://vmsmedia.s3.amazonaws.com/pvw/2C8/71B/2C871B7778904D089D9F52C813CC9DED.mp4
+    </preview_video_url>
+    <snapshot_url>http://vmsmedia.s3.amazonaws.com/iupl/899/D8F/899D8FAD12474263A5B73FC58424D13B</snapshot_url>
+    <ts_added>1448035333</ts_added>
+    <ts_published>1448034780</ts_published>
+    <ts_expire>1479570780</ts_expire>
+    <ts_end>1479531600</ts_end>
+    <ts_airdate>1448034780</ts_airdate>
+    <title>La historia de ‘El Hotel de los Secretos’ te cautivará</title>
+    <description>Erick Elías, Irene Azuela y Jorge Poza prometen atraparte con la historia de esta serie llena de
+        misterios y secretos. No te pierdas el estreno próximamente por Univision.
+    </description>
+    <tags>Irene Azuela,Erick Elías,Diana Bracho,Daniela Romo,Jorge Poza,Dominika Paleta,Ilse Salas,Carlos Rivera,Alex de
+        la Madrid,Sofía Castro,capítulos completos,El hotel de los
+        secretos,Isabel,Julio,telenovela,televisa,exclusivasdelhotel
+    </tags>
+    <short_title>La historia de ‘El Hotel de los Secretos’ te cautivará</short_title>
+    <friendly_key></friendly_key>
+    <episode_no>151120</episode_no>
+    <season>2015</season>
+    <width>1280</width>
+    <height>720</height>
+    <duration>84</duration>
+    <bitrate_kbps>0</bitrate_kbps>
+    <source_id>1577</source_id>
+    <source_name>Televisa</source_name>
+    <program_id>1094</program_id>
+    <program_name>El Hotel de los Secretos</program_name>
+    <program_description>Julio llega al Hotel de los Secretos para investigar la desaparición de su hermana y se
+        convierte en mesero del hotel para lograrlo. En su búsqueda encontrará el amor en Isabel, la hija de la dueña.
+        Julio e Isabel lucharán para estar juntos y descubrir lo
+    </program_description>
+    <rating>TV-PG</rating>
+    <subratings></subratings>
+    <language>es</language>
+    <artist></artist>
+    <category_name>Novelas</category_name>
+    <international>Y</international>
+    <access_rule></access_rule>
+    <base_cdn_path>151120_3125908_La_historia_de____El_Hotel_de_los_Secretos__</base_cdn_path>
+    <genre></genre>
+
+
+
+
+
+
+
+
+
+
+    <channels>
+        <channel>
+            <site_id>6</site_id>
+            <channel_id>12636</channel_id>
+        </channel>
+    </channels>
+    <community>
+        <comments>Deny</comments>
+        <ratings>Allow</ratings>
+        <embedding>Allow</embedding>
+        <responses>Deny</responses>
+    </community>
+    <ads>
+        <context_based>Deny</context_based>
+        <invideo>Allow</invideo>
+        <instream>Allow</instream>
+        <has_postroll>Deny</has_postroll>
+        <has_preroll>Allow</has_preroll>
+    </ads>
+    <crew>
+        <member role="Director">Francisco Franco</member>
+        <member role="Actor">Erick Elías</member>
+        <member role="Actor">Irene Azuela</member>
+        <member role="Actor">JORGE POZA</member>
+        <member role="Actor">Diana Bracho</member>
+        <member role="Actor">Daniela Romo</member>
+        <member role="Actor">Dominika Paleta</member>
+    </crew>
+    <copyright>
+        <owner>© Televisa</owner>
+        <year>2015</year>
+    </copyright>
+
+
+
+
+
+
+
+
+    <ad_slots/>
+    <annotations/>
+    <snapshots>
+        <snapshot>
+            <image_id>18609379</image_id>
+            <url>http://vmsmedia.s3.amazonaws.com/iupl/899/D8F/899D8FAD12474263A5B73FC58424D13B</url>
+            <width>1280</width>
+            <height>720</height>
+        </snapshot>
+        <snapshot>
+            <image_id>18609218</image_id>
+            <url>http://vmsmedia.s3.amazonaws.com/pvw/2C8/71B/2C871B7778904D089D9F52C813CC9DED_8.jpg</url>
+            <width>1280</width>
+            <height>720</height>
+        </snapshot>
+        <snapshot>
+            <image_id>18609217</image_id>
+            <url>http://vmsmedia.s3.amazonaws.com/pvw/2C8/71B/2C871B7778904D089D9F52C813CC9DED_7.jpg</url>
+            <width>1280</width>
+            <height>720</height>
+        </snapshot>
+        <snapshot>
+            <image_id>18609216</image_id>
+            <url>http://vmsmedia.s3.amazonaws.com/pvw/2C8/71B/2C871B7778904D089D9F52C813CC9DED_6.jpg</url>
+            <width>1280</width>
+            <height>720</height>
+        </snapshot>
+        <snapshot>
+            <image_id>18609215</image_id>
+            <url>http://vmsmedia.s3.amazonaws.com/pvw/2C8/71B/2C871B7778904D089D9F52C813CC9DED_5.jpg</url>
+            <width>1280</width>
+            <height>720</height>
+        </snapshot>
+        <snapshot>
+            <image_id>18609214</image_id>
+            <url>http://vmsmedia.s3.amazonaws.com/pvw/2C8/71B/2C871B7778904D089D9F52C813CC9DED_4.jpg</url>
+            <width>1280</width>
+            <height>720</height>
+        </snapshot>
+        <snapshot>
+            <image_id>18609213</image_id>
+            <url>http://vmsmedia.s3.amazonaws.com/pvw/2C8/71B/2C871B7778904D089D9F52C813CC9DED_3.jpg</url>
+            <width>1280</width>
+            <height>720</height>
+        </snapshot>
+        <snapshot>
+            <image_id>18609212</image_id>
+            <url>http://vmsmedia.s3.amazonaws.com/pvw/2C8/71B/2C871B7778904D089D9F52C813CC9DED_2.jpg</url>
+            <width>1280</width>
+            <height>720</height>
+        </snapshot>
+        <snapshot>
+            <image_id>18609211</image_id>
+            <url>http://vmsmedia.s3.amazonaws.com/pvw/2C8/71B/2C871B7778904D089D9F52C813CC9DED_1.jpg</url>
+            <width>1280</width>
+            <height>720</height>
+        </snapshot>
+    </snapshots>
+
+
+    <published_urls>
+        <published_url>
+            <url>
+                http://h.univision.com/media/1094/15/11/20/3125908/151120_3125908_La_historia_de____El_Hotel_de_los_Secretos___1448037165_150.mp4
+            </url>
+            <width>320</width>
+            <height>180</height>
+            <bitrate>150</bitrate>
+            <format>mp4bp</format>
+        </published_url>
+        <published_url>
+            <url>
+                http://h.univision.com/media/1094/15/11/20/3125908/151120_3125908_La_historia_de____El_Hotel_de_los_Secretos___1448037165_510.mp4
+            </url>
+            <width>512</width>
+            <height>288</height>
+            <bitrate>510</bitrate>
+            <format>mp4bp</format>
+        </published_url>
+        <published_url>
+            <url>
+                http://h.univision.com/media/1094/15/11/20/3125908/151120_3125908_La_historia_de____El_Hotel_de_los_Secretos___1448037165_810.mp4
+            </url>
+            <width>640</width>
+            <height>360</height>
+            <bitrate>810</bitrate>
+            <format>mp4bp</format>
+        </published_url>
+        <published_url>
+            <url>
+                http://h.univision.com/media/1094/15/11/20/3125908/151120_3125908_La_historia_de____El_Hotel_de_los_Secretos___1448037165_270.mp4
+            </url>
+            <width>416</width>
+            <height>234</height>
+            <bitrate>270</bitrate>
+            <format>mp4</format>
+        </published_url>
+        <published_url>
+            <url>
+                http://h.univision.com/media/1094/15/11/20/3125908/151120_3125908_La_historia_de____El_Hotel_de_los_Secretos___1448037165_500.mp4
+            </url>
+            <width>512</width>
+            <height>288</height>
+            <bitrate>500</bitrate>
+            <format>mp4</format>
+        </published_url>
+        <published_url>
+            <url>
+                http://h.univision.com/media/1094/15/11/20/3125908/151120_3125908_La_historia_de____El_Hotel_de_los_Secretos___1448037165_800.mp4
+            </url>
+            <width>640</width>
+            <height>360</height>
+            <bitrate>800</bitrate>
+            <format>mp4</format>
+        </published_url>
+        <published_url>
+            <url>
+                http://h.univision.com/media/1094/15/11/20/3125908/151120_3125908_La_historia_de____El_Hotel_de_los_Secretos___1448037165_1200.mp4
+            </url>
+            <width>960</width>
+            <height>540</height>
+            <bitrate>1200</bitrate>
+            <format>mp4</format>
+        </published_url>
+        <published_url>
+            <url>
+                http://h.univision.com/media/1094/15/11/20/3125908/151120_3125908_La_historia_de____El_Hotel_de_los_Secretos___1448037165_2000.mp4
+            </url>
+            <width>1280</width>
+            <height>720</height>
+            <bitrate>2000</bitrate>
+            <format>mp4</format>
+        </published_url>
+        <published_url>
+            <url>
+                http://h.univision.com/media/1094/15/11/20/3125908/151120_3125908_La_historia_de____El_Hotel_de_los_Secretos___1448037165_150.m3u8
+            </url>
+            <width>480</width>
+            <height>270</height>
+            <bitrate>150</bitrate>
+            <format>m3u8-bp</format>
+        </published_url>
+        <published_url>
+            <url>
+                http://h.univision.com/media/1094/15/11/20/3125908/151120_3125908_La_historia_de____El_Hotel_de_los_Secretos___1448037165_400.m3u8
+            </url>
+            <width>480</width>
+            <height>270</height>
+            <bitrate>400</bitrate>
+            <format>m3u8-bp</format>
+        </published_url>
+        <published_url>
+            <url>
+                http://h.univision.com/media/1094/15/11/20/3125908/151120_3125908_La_historia_de____El_Hotel_de_los_Secretos___1448037165_600.m3u8
+            </url>
+            <width>640</width>
+            <height>360</height>
+            <bitrate>600</bitrate>
+            <format>m3u8-mp</format>
+        </published_url>
+        <published_url>
+            <url>
+                http://h.univision.com/media/1094/15/11/20/3125908/151120_3125908_La_historia_de____El_Hotel_de_los_Secretos___1448037165_1000.m3u8
+            </url>
+            <width>640</width>
+            <height>360</height>
+            <bitrate>1000</bitrate>
+            <format>m3u8-mp</format>
+        </published_url>
+        <published_url>
+            <url>
+                http://h.univision.com/media/1094/15/11/20/3125908/151120_3125908_La_historia_de____El_Hotel_de_los_Secretos___1448037165_1800.m3u8
+            </url>
+            <width>960</width>
+            <height>540</height>
+            <bitrate>1800</bitrate>
+            <format>m3u8-mp</format>
+        </published_url>
+        <published_url>
+            <url>
+                http://h.univision.com/media/1094/15/11/20/3125908/151120_3125908_La_historia_de____El_Hotel_de_los_Secretos___1448037165_2500.m3u8
+            </url>
+            <width>1280</width>
+            <height>720</height>
+            <bitrate>2500</bitrate>
+            <format>m3u8-mp</format>
+        </published_url>
+        <published_url>
+            <url>
+                http://h.univision.com/media/1094/15/11/20/3125908/151120_3125908_La_historia_de____El_Hotel_de_los_Secretos___1448037165_1.m3u8
+            </url>
+            <width>1280</width>
+            <height>720</height>
+            <bitrate>1</bitrate>
+            <format>m3u8-bp</format>
+        </published_url>
+        <published_url>
+            <url>http://vmscdn-download.s3.amazonaws.com/videos_mcm/variant/3125908.m3u8</url>
+            <width>1280</width>
+            <height>720</height>
+            <bitrate>Variant</bitrate>
+            <format>m3u8-variant</format>
+        </published_url>
+        <published_url>
+            <url>http://vmscdn-download.s3.amazonaws.com/videos_mcm/variant/3125908.smil</url>
+            <width>1280</width>
+            <height>720</height>
+            <bitrate>Variant</bitrate>
+            <format>smil</format>
+        </published_url>
+    </published_urls>
+
+
+
+
+
+
+
+
+
+
+    <access_rules>
+        <rule name="US/PTO.RICO" access="private">
+            <exceptions match="any">
+                <condition scope="country" value="US"/>
+                <condition scope="country" value="PR"/>
+            </exceptions>
+        </rule>
+    </access_rules>
+    <captions/>
+    <custom_fields>
+        <field>
+            <name>EnglishTitle</name>
+            <value>The story of 'El Hotel de los Secretos' will surprise you</value>
+        </field>
+        <field>
+            <name>EnglishShortTitle</name>
+            <value>El Hotel de los Secretos</value>
+        </field>
+        <field>
+            <name>EnglishDescription</name>
+            <value>The story of 'El Hotel de los Secretos' will surprise you</value>
+        </field>
+        <field>
+            <name>TV Show - Season</name>
+            <value>2015</value>
+        </field>
+        <field>
+            <name>TV Show</name>
+            <value>El Hotel de los Secretos</value>
+        </field>
+        <field>
+            <name>videotype</name>
+            <value>Clip</value>
+        </field>
+        <field>
+            <name>Day Part</name>
+            <value></value>
+        </field>
+        <field>
+            <name>newsItemId</name>
+            <value></value>
+        </field>
+        <field>
+            <name>providerPublicationDate</name>
+            <value></value>
+        </field>
+        <field>
+            <name>Network</name>
+            <value></value>
+        </field>
+        <field>
+            <name>Content Type</name>
+            <value>Entertainment</value>
+        </field>
+        <field>
+            <name>English Program Description</name>
+            <value>Julio arrives at the Hotel of Secrets to investigate the disappearance of his sister and gets a job
+                as a waiter to do it. He falls in love with Isabel, and they are going to find out the mysteries hidden
+                in the Hotel of Secrets.
+            </value>
+        </field>
+        <field>
+            <name>Friendly key</name>
+            <value></value>
+        </field>
+        <field>
+            <name>Short title</name>
+            <value>La historia de ‘El Hotel de los Secretos’ te cautivará</value>
+        </field>
+        <field>
+            <name>external_id</name>
+            <value></value>
+        </field>
+        <field>
+            <name>TMS ID</name>
+            <value></value>
+        </field>
+        <field>
+            <name>Descriptive Title</name>
+            <value></value>
+        </field>
+        <field>
+            <name>Neulion ID</name>
+            <value></value>
+        </field>
+        <field>
+            <name>Supplier Episode Number</name>
+            <value></value>
+        </field>
+        <field>
+            <name>Title Block Code</name>
+            <value></value>
+        </field>
+        <field>
+            <name>Title Block Number</name>
+            <value></value>
+        </field>
+        <field>
+            <name>Iscii number</name>
+            <value></value>
+        </field>
+        <field>
+            <name>Advertiser</name>
+            <value></value>
+        </field>
+        <field>
+            <name>prg_external_id</name>
+            <value>HOSE000000000</value>
+        </field>
+    </custom_fields>
+</video>
