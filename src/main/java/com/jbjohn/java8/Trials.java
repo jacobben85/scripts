@@ -1,6 +1,7 @@
 package com.jbjohn.java8;
 
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 /**
@@ -24,5 +25,12 @@ public class Trials {
 
         tags.forEach((title -> title.replace("Testing", "Another")));
         System.out.println(tags);
+
+
+        HashMap<String, String> hashMap = new HashMap<>();
+        hashMap.put("test1", "test1");
+        hashMap.put("test2", "test2");
+
+        hashMap.hashCode();
     }
 }
