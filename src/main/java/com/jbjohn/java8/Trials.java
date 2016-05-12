@@ -9,7 +9,7 @@ import java.util.List;
  */
 public class Trials {
 
-    public void ListTrials() {
+    public boolean ListTrials() {
         List<String> tags = new ArrayList<>();
 
         tags.add("Testing 1");
@@ -32,5 +32,7 @@ public class Trials {
         hashMap.put("test2", "test2");
 
         hashMap.hashCode();
+
+        return true;
     }
 }

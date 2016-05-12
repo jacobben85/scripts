@@ -1,9 +1,8 @@
 package com.jbjohn.java8;
 
+import junit.framework.Assert;
 import org.junit.Before;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 /**
  * Trials tests
@@ -17,7 +16,11 @@ public class TrialsTest {
 
     @Test
     public void testListTrials() throws Exception {
+        boolean expected = true;
+
         Trials trials = new Trials();
-        trials.ListTrials();
+        boolean response = trials.ListTrials();
+
+        Assert.assertEquals(expected, response);
     }
 }

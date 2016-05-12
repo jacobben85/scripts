@@ -3,7 +3,6 @@ package com.jbjohn.string;
 import org.apache.commons.lang.text.StrSubstitutor;
 
 import java.text.SimpleDateFormat;
-import java.util.Calendar;
 import java.util.Date;
 import java.util.HashMap;
 import java.util.Map;
@@ -12,6 +11,12 @@ import java.util.Map;
  * String formatter.
  */
 public class Formatter {
+
+    private Date dateValue;
+
+    public Formatter(Date dateValue) {
+        this.dateValue = dateValue;
+    }
 
     public void process(String testString, String format) {
 
@@ -33,15 +38,8 @@ public class Formatter {
         String dateFormatted = null;
 
         try {
-            String minutes = "-10";
-            Integer integer = new Integer(minutes);
-            System.out.println(integer);
-            Calendar cal = Calendar.getInstance();
-            cal.add(Calendar.MINUTE, integer);
-            Date date = cal.getTime();
-
             SimpleDateFormat dateFormat = new SimpleDateFormat(format);
-            dateFormatted = dateFormat.format(date);
+            dateFormatted = dateFormat.format(dateValue);
         } catch (Exception e) {
 
         }
